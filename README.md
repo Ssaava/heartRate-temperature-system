@@ -5,6 +5,7 @@
 ## Table of contents
 
 - [Brief Description](#brief-description)
+- [Visualisations](#visualisations)
 - [Components to be Used](#components-to-be-used)
   - [Heartbeat Sensor](#heartbeat-sensor)
   - [SIM Module](#sim-module)
@@ -31,6 +32,10 @@ The health monitoring system collects real time data of the patient’s heart ra
 These values are retrieved from the things speak which are then displayed to the patient accompanied with the state condition of the their heart rate( Low, normal, High). Once the heart rate or body temperature changes to a certain threshold the that needs attention, the led lights and the buzzer are used to notify an emergency.
 
 ---
+
+## Visualisations
+
+Click [here](https://thingspeak.com/channels/2499895) to view the thingsSpeek puclic channel
 
 ## Components to be Used
 
