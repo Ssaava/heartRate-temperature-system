@@ -37,6 +37,8 @@ These values are retrieved from the things speak which are then displayed to the
 
 Click [here](https://thingspeak.com/channels/2499895) to view the thingsSpeek puclic channel
 
+---
+
 ## Components to be Used
 
 - Heartbeat Sensor
